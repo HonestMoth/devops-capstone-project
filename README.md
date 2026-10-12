@@ -128,10 +128,4 @@ Deployment requires the relevant Docker, Kubernetes/OpenShift, and Tekton enviro
 - Package the service as a Docker image.
 - Explore Kubernetes deployment and Tekton-based continuous delivery.
 
-## Attribution
 
-This is my working repository for the IBM DevOps and Software Engineering capstone. The project structure and starter implementation are based on the public source repository [christian-schw/devops-capstone-project](https://github.com/christian-schw/devops-capstone-project) and the IBM Developer Skills Network capstone template. Original licensing and attribution are retained in [LICENSE](LICENSE).
-
----
-
-Maintained by [@HonestMoth](https://github.com/HonestMoth).
